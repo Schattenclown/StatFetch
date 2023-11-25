@@ -14,24 +14,27 @@ This is a Discord Bot for Game server Statistics!
 
 ---
 
-Setup 
+## Setup 
 
-<img src="https://i.imgur.com/6a2iR1i.png" width="600">
-<img src="https://i.imgur.com/OPKnL4Z.png" width="600">
-<img src="https://i.imgur.com/JS8xSLD.png" width="600">
 
-<img src="https://i.imgur.com/ktf9gm2.png" width="600">
-<img src="https://i.imgur.com/4Jd2zGl.png" width="600">
-<img src="https://i.imgur.com/S72S0z2.png" width="600">
-<img src="https://i.imgur.com/Lhify0w.png" width="600">
-<img src="https://i.imgur.com/VpT2aVH.png" width="600">
-<img src="https://i.imgur.com/YR0tuRx.png" width="600">
+
+<img src="https://i.imgur.com/ktf9gm2.png" width="1000">
+<img src="https://i.imgur.com/4Jd2zGl.png" width="1000">
+<img src="https://i.imgur.com/S72S0z2.png" width="1000">
+<img src="https://i.imgur.com/Lhify0w.png" width="1000">
+<img src="https://i.imgur.com/VpT2aVH.png" width="1000">
+<img src="https://i.imgur.com/YR0tuRx.png" width="1000">
+
 <img src="https://i.imgur.com/jb2kxn6.png" width="600">
 <img src="https://i.imgur.com/Ul0OHWz.png" width="600">
 <img src="https://i.imgur.com/Eb7tT8t.png" width="600">
 <img src="https://i.imgur.com/6S5MwGS.png" width="600">
 <img src="https://i.imgur.com/eIag61u.png" width="600">
 <img src="https://i.imgur.com/PUT3axJ.png" width="600">
+
+<img src="https://i.imgur.com/6a2iR1i.png" width="600">
+<img src="https://i.imgur.com/OPKnL4Z.png" width="600">
+<img src="https://i.imgur.com/JS8xSLD.png" width="600">
 
 ---
 
