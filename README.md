@@ -106,12 +106,11 @@ Due to the Discord-API's Limitations, the Bot can only update a Dashboard (Messa
 ## Authors
 
 - [@Schattenclown](https://github.com/Schattenclown)
-## Feedback
+## Feedback/Support
 
-If you have any feedback, please reach out to me at statfetch@icloud.com
-## Support
+If you have any feedback, please reach out to me on Discord [@schattenclown](https://discordlookup.com/user/444152594898878474) or join the Discord Server [Invite link](https://discord.gg/secretbit)
 
-For support, email statfetch@icloud.com or join the Discord Server [Invite link](https://discord.gg/secretbit)
+For support, email statfetch@icloud.com 
 ## Roadmap
 
 - Uptime Statistics
