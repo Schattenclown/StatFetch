@@ -10,16 +10,14 @@ Current Features
 - Keep track of data such as maximum players and Uptime.
 - Edit view to Edit the Instance-Configurations.
 - Join Button on Steam servers Dashboards (Messages) that allows Users to connect.
-- 
+
 ___
 
+Setup 
 <img src="https://i.imgur.com/6a2iR1i.png" width="600">
 <img src="https://i.imgur.com/OPKnL4Z.png" width="600">
 <img src="https://i.imgur.com/JS8xSLD.png" width="600">
-<img src="https://i.imgur.com/5hh0jSk.png" width="600">
-<img src="https://i.imgur.com/0fGPlDC.png" width="600">
-<img src="https://i.imgur.com/e0NRGrP.png" width="600">
-<img src="https://i.imgur.com/V02gB57.png" width="600">
+
 <img src="https://i.imgur.com/ktf9gm2.png" width="600">
 <img src="https://i.imgur.com/4Jd2zGl.png" width="600">
 <img src="https://i.imgur.com/S72S0z2.png" width="600">
@@ -32,6 +30,12 @@ ___
 <img src="https://i.imgur.com/6S5MwGS.png" width="600">
 <img src="https://i.imgur.com/eIag61u.png" width="600">
 <img src="https://i.imgur.com/PUT3axJ.png" width="600">
+
+Notifications
+<img src="https://i.imgur.com/5hh0jSk.png" width="600">
+<img src="https://i.imgur.com/0fGPlDC.png" width="600">
+<img src="https://i.imgur.com/e0NRGrP.png" width="600">
+<img src="https://i.imgur.com/V02gB57.png" width="600">
 
 ___
 
