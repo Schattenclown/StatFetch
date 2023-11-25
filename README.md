@@ -9,10 +9,11 @@ Current Features
 - Edit view to Edit the Instance-Configurations.
 - Join Button on Steam servers Dashboards (Messages) that allows Users to connect.
 
-Reference-style: 
-![alt text][logo]
 
-[logo]: https://i.imgur.com/PUT3axJ.png "Logo Title Text 2"
+
+![alt text][Statistics]
+
+
 
 Notification Options.
 Option | Function
@@ -24,3 +25,6 @@ FullSpam | everything above plus every joined and leaving Player
 
 Limitations
 - Due to the Discord-API's Limitations, the Bot can only update a Dashboard (Message) every 5 Seconds if the Message is Older than one hour. Because of this, the Bot will only edit and update one Dashboard (Message) every 5 Seconds, if you set up 5 Servers, it will take 5 x 5 = 25 Seconds until one Rotation is done.
+
+
+[Statistics]: https://i.imgur.com/PUT3axJ.png "Statistics"
