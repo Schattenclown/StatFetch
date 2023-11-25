@@ -12,7 +12,7 @@ Current Features
 Reference-style: 
 ![alt text][logo]
 
-[logo]: [https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://imgur.com/a/AdTOjRx) "Logo Title Text 2"
+[logo]: https://i.imgur.com/PUT3axJ.png "Logo Title Text 2"
 
 Notification Options.
 Option | Function
