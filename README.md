@@ -15,19 +15,19 @@ This is a Discord Bot for Game server Statistics!
 ---
 
 ## Setup 
-1. Basic Setup
+#### 1. Call a Command.
    
 <img src="https://i.imgur.com/ktf9gm2.png" width="1000">
-2. Basic Setup
+#### 2. Select the Servertype.
 
 <img src="https://i.imgur.com/4Jd2zGl.png" width="1000">
-3. Basic Setup
+#### 3. Give the Server Configuration a Name.
 
 <img src="https://i.imgur.com/Lhify0w.png" width="1000">
-4. Basic Setup
+#### 4. Enter an IP or Domainname.
 
 <img src="https://i.imgur.com/VpT2aVH.png" width="1000">
-5. Basic Setup
+#### 5. Enter the Gameport.
 
 <img src="https://i.imgur.com/YR0tuRx.png" width="1000">
 
