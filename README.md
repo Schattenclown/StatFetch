@@ -91,7 +91,7 @@ FullSpam | everything above plus every joined and leaving Player
 
 <img src="https://i.imgur.com/JS8xSLD.png" width="600">
 
-## Notification looks
+## Preview of the Notifications.
 
 <img src="https://i.imgur.com/5hh0jSk.png" width="600">
 <img src="https://i.imgur.com/0fGPlDC.png" width="600">
