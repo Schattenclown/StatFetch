@@ -15,11 +15,20 @@ This is a Discord Bot for Game server Statistics!
 ---
 
 ## Setup 
-
+1. Basic Setup
+   
 <img src="https://i.imgur.com/ktf9gm2.png" width="1000">
+2. Basic Setup
+
 <img src="https://i.imgur.com/4Jd2zGl.png" width="1000">
+3. Basic Setup
+
 <img src="https://i.imgur.com/Lhify0w.png" width="1000">
+4. Basic Setup
+
 <img src="https://i.imgur.com/VpT2aVH.png" width="1000">
+5. Basic Setup
+
 <img src="https://i.imgur.com/YR0tuRx.png" width="1000">
 
 <img src="https://i.imgur.com/jb2kxn6.png" width="600">
