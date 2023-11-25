@@ -1,7 +1,7 @@
 # StatFetch
 This is a Discord Bot for Game server Statistics!
 
-___
+---
 
 Current Features
 - Allow users to add and remove game servers to monitor on a per-Discord guild basis.
@@ -11,9 +11,10 @@ Current Features
 - Edit view to Edit the Instance-Configurations.
 - Join Button on Steam servers Dashboards (Messages) that allows Users to connect.
 
-___
+---
 
 Setup 
+
 <img src="https://i.imgur.com/6a2iR1i.png" width="600">
 <img src="https://i.imgur.com/OPKnL4Z.png" width="600">
 <img src="https://i.imgur.com/JS8xSLD.png" width="600">
@@ -31,13 +32,7 @@ Setup
 <img src="https://i.imgur.com/eIag61u.png" width="600">
 <img src="https://i.imgur.com/PUT3axJ.png" width="600">
 
-Notifications
-<img src="https://i.imgur.com/5hh0jSk.png" width="600">
-<img src="https://i.imgur.com/0fGPlDC.png" width="600">
-<img src="https://i.imgur.com/e0NRGrP.png" width="600">
-<img src="https://i.imgur.com/V02gB57.png" width="600">
-
-___
+---
 
 Notification Options.
 Option | Function
@@ -47,7 +42,14 @@ OnFirstPlayer | When one Player starts playing (0/70) Players -> (1/70) Players
 OnlineOffline | The Server goes Offline or Online
 FullSpam | everything above plus every joined and leaving Player
 
-___
+Notifications
+
+<img src="https://i.imgur.com/5hh0jSk.png" width="600">
+<img src="https://i.imgur.com/0fGPlDC.png" width="600">
+<img src="https://i.imgur.com/e0NRGrP.png" width="600">
+<img src="https://i.imgur.com/V02gB57.png" width="600">
+
+---
 
 Limitations
 - Due to the Discord-API's Limitations, the Bot can only update a Dashboard (Message) every 5 Seconds if the Message is Older than one hour. Because of this, the Bot will only edit and update one Dashboard (Message) every 5 Seconds, if you set up 5 Servers, it will take 5 x 5 = 25 Seconds until one Rotation is done.
