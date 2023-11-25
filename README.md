@@ -75,7 +75,9 @@ FullSpam | everything above plus every joined and leaving Player
 
 ## Subscribe to a Server Configurations Notifications.
 
-#### 1. Click "Edit Notification" on the Dashboard (Message).
+#### 1. Click "Notification" on the Dashboard (Message).
+
+<img src="https://i.imgur.com/kmsVBgc.png" width="600">
 
 #### 2. Click "Edit Notification" in your Private Messages.
 
