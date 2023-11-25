@@ -9,7 +9,10 @@ Current Features
 - Edit view to Edit the Instance-Configurations.
 - Join Button on Steam servers Dashboards (Messages) that allows Users to connect.
 
+Reference-style: 
+![alt text][logo]
 
+[logo]: [https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://imgur.com/a/AdTOjRx) "Logo Title Text 2"
 
 Notification Options.
 Option | Function
