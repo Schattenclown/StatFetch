@@ -1,8 +1,8 @@
 # StatFetch
 This is a Discord Bot for Game server Statistics!
 
-[Invite link]([https://www.google.com](https://discord.com/api/oauth2/authorize?client_id=1100507768676425789&permissions=18582176394304&scope=bot%20applications.commands) "Invite link")
 
+[Bot Invite link](https://discord.com/api/oauth2/authorize?client_id=1100507768676425789&permissions=18582176394304&scope=bot%20applications.commands)
 ---
 
 ## Current Features
