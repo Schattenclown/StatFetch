@@ -3,7 +3,8 @@ This is a Discord Bot for Game server Statistics!
 
 ---
 
-Current Features
+## Current Features
+
 - Allow users to add and remove game servers to monitor on a per-Discord guild basis.
 - Fetch data from a game server (such as Minecraft or Steam servers).
 - Notify users if the game server goes offline, online, or if players start or stop playing.
@@ -34,7 +35,8 @@ Setup
 
 ---
 
-Notification Options.
+## Notification Options.
+
 Option | Function
 --- | ---
 OnFreeSlot | When Player slots get free (70/70) Players -> (69/70) Players
@@ -42,7 +44,7 @@ OnFirstPlayer | When one Player starts playing (0/70) Players -> (1/70) Players
 OnlineOffline | The Server goes Offline or Online
 FullSpam | everything above plus every joined and leaving Player
 
-Notifications
+## Notifications
 
 <img src="https://i.imgur.com/5hh0jSk.png" width="600">
 <img src="https://i.imgur.com/0fGPlDC.png" width="600">
@@ -51,5 +53,5 @@ Notifications
 
 ---
 
-# Limitations
+## Limitations
 Due to the Discord-API's Limitations, the Bot can only update a Dashboard (Message) every 5 Seconds if the Message is Older than one hour. Because of this, the Bot will only edit and update one Dashboard (Message) every 5 Seconds, if you set up 5 Servers, it will take 5 x 5 = 25 Seconds until one Rotation is done.
