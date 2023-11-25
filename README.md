@@ -48,7 +48,7 @@ This is a Discord Bot for Game server Statistics!
 
 ## Manage
 
-<img src="https://i.imgur.com/Eb7tT8t.png" width="600">
+<img src="https://i.imgur.com/Eb7tT8t.png" width="1000">
 
 ---
 
