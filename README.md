@@ -97,8 +97,8 @@ FullSpam | everything above plus every joined and leaving Player
 
 <img src="https://i.imgur.com/5hh0jSk.png" width="600">
 <img src="https://i.imgur.com/0fGPlDC.png" width="600">
-<img src="https://i.imgur.com/e0NRGrP.png" width="600">
-<img src="https://i.imgur.com/V02gB57.png" width="600">
+<img src="https://i.imgur.com/fpqPDSo.png" width="600">
+<img src="https://i.imgur.com/ORWi2Sw.png" width="600">
 
 ---
 
