@@ -16,11 +16,8 @@ This is a Discord Bot for Game server Statistics!
 
 ## Setup 
 
-
-
 <img src="https://i.imgur.com/ktf9gm2.png" width="1000">
 <img src="https://i.imgur.com/4Jd2zGl.png" width="1000">
-<img src="https://i.imgur.com/S72S0z2.png" width="1000">
 <img src="https://i.imgur.com/Lhify0w.png" width="1000">
 <img src="https://i.imgur.com/VpT2aVH.png" width="1000">
 <img src="https://i.imgur.com/YR0tuRx.png" width="1000">
