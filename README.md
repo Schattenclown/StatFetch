@@ -54,6 +54,12 @@ This is a Discord Bot for Game server Statistics!
 
 ## Statistics
 
+#### 1. To show the Server Statistics, Rightclick -> Apps -> Statistics.
+
+<img src="https://i.imgur.com/R8OZy4S.png" width="1000">
+
+#### 2. The Player Statistics from the las 30 Days show up.
+
 <img src="https://i.imgur.com/PUT3axJ.png" width="600">
 
 ---
