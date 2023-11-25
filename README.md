@@ -40,7 +40,7 @@ This is a Discord Bot for Game server Statistics!
 
 <img src="https://i.imgur.com/1MrYn6h.png" width="600">
 
-#### 5. If you click the "Add a Description" Button, this Edit View will open.
+#### 5. If you click the `Add a Description` Button, this Edit View will open.
 
 <img src="https://i.imgur.com/Ul0OHWz.png" width="600">
 
@@ -48,7 +48,7 @@ This is a Discord Bot for Game server Statistics!
 
 ## Manage
 
-#### 1. To manage your Server Configurations, you can either call the command /configurations manage or Right-click on a Server Configuration → Apps → Manage.
+#### 1. To manage your Server Configurations, you can either call the command `/configurations manage` or Right-click on a Server Configuration → Apps → Manage.
 
 <img src="https://i.imgur.com/Eb7tT8t.png" width="1000">
 
@@ -83,11 +83,11 @@ FullSpam | everything above plus every joined and leaving Player
 
 ## Subscribe to a Server Configurations Notifications.
 
-#### 1. Click "Notification" on the Dashboard (Message).
+#### 1. Click `Notification` on the Dashboard (Message).
 
 <img src="https://i.imgur.com/kmsVBgc.png" width="600">
 
-#### 2. Click "Edit Notification" in your Private Messages.
+#### 2. Click `Edit Notification` in your Private Messages.
 
 <img src="https://i.imgur.com/6a2iR1i.png" width="600">
 
