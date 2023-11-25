@@ -16,7 +16,7 @@ This is a Discord Bot for Game server Statistics!
 
 ## Setup 
 
-#### 1. Call a Command.
+#### 1. Call the add Command.
    
 <img src="https://i.imgur.com/ktf9gm2.png" width="1000">
 
@@ -59,13 +59,6 @@ OnFirstPlayer | When one Player starts playing (0/70) Players -> (1/70) Players
 OnlineOffline | The Server goes Offline or Online
 FullSpam | everything above plus every joined and leaving Player
 
-## Notifications
-
-<img src="https://i.imgur.com/5hh0jSk.png" width="600">
-<img src="https://i.imgur.com/0fGPlDC.png" width="600">
-<img src="https://i.imgur.com/e0NRGrP.png" width="600">
-<img src="https://i.imgur.com/V02gB57.png" width="600">
-
 ## Abo to an Server Configuration.
 
 #### 1. Click "Edit Notification" on the Dashboard (Message).
@@ -81,6 +74,13 @@ FullSpam | everything above plus every joined and leaving Player
 #### 3. or deabo from it.
 
 <img src="https://i.imgur.com/JS8xSLD.png" width="600">
+
+## Notification looks
+
+<img src="https://i.imgur.com/5hh0jSk.png" width="600">
+<img src="https://i.imgur.com/0fGPlDC.png" width="600">
+<img src="https://i.imgur.com/e0NRGrP.png" width="600">
+<img src="https://i.imgur.com/V02gB57.png" width="600">
 
 ---
 
