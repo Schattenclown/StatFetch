@@ -48,7 +48,13 @@ This is a Discord Bot for Game server Statistics!
 
 ## Manage
 
+#### 1. To manage your Server Configurations, you can either call the command /configurations manage or Right-click on a Server Configuration → Apps → Manage.
+
 <img src="https://i.imgur.com/Eb7tT8t.png" width="1000">
+
+#### 2. Here you can click through your Configurations, or select a Configuration from the Dropdown Menu. This is for Deletion and editing.
+
+<img src="https://i.imgur.com/CPanOEI.png" width="600">
 
 ---
 
