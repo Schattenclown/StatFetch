@@ -44,7 +44,7 @@ FullSpam | everything above plus every joined and leaving Player
 Limitations
 - Due to the Discord-API's Limitations, the Bot can only update a Dashboard (Message) every 5 Seconds if the Message is Older than one hour. Because of this, the Bot will only edit and update one Dashboard (Message) every 5 Seconds, if you set up 5 Servers, it will take 5 x 5 = 25 Seconds until one Rotation is done.
 
-[Setup1]: https://i.imgur.com/ktf9gm2.png "Setup1"
+[Setup1]: https://i.imgur.com/ktf9gm2.png | width=100 "Setup1"
 [Setup2]: https://i.imgur.com/4Jd2zGl.png "Setup2"
 [Setup3]: https://i.imgur.com/S72S0z2.png "Setup3"
 [Setup4]: https://i.imgur.com/Lhify0w.png "Setup4"
