@@ -74,6 +74,8 @@ This is a Discord Bot for Game server Statistics!
 
 ## Notification Options.
 
+## The Bot checks every Server every Second, and sends the Notifications if anything changed.
+
 Option | Function
 --- | ---
 OnFreeSlot | When Player slots get free (70/70) Players → (69/70) Players
