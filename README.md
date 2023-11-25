@@ -1,2 +1,2 @@
 # StatFetch
-Discord Bot for Gameserver Statistics!
+is a Discord Bot for Game server Statistics!
