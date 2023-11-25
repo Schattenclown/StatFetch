@@ -11,7 +11,7 @@ Current Features
 
 Notification Options.
 Option | Function
-
+--- | ---
 OnFreeSlot | When Player slots get free (70/70) Players -> (69/70) Players
 OnFirstPlayer | When one Player starts playing (0/70) Players -> (1/70) Players
 OnlineOffline | The Server goes Offline or Online
