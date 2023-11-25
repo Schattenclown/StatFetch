@@ -9,6 +9,8 @@ Current Features
 - Edit view to Edit the Instance-Configurations.
 - Join Button on Steam servers Dashboards (Messages) that allows Users to connect.
 
+
+
 Notification Options.
 Option | Function
 --- | ---
