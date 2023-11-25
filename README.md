@@ -60,7 +60,9 @@ This is a Discord Bot for Game server Statistics!
 
 #### 2. The Player Statistics from the last 30 Days show up.
 
-<img src="https://i.imgur.com/PUT3axJ.png" width="600">
+<img src="https://i.imgur.com/99iaBXA.png" width="600">
+
+<img src="https://i.imgur.com/PBZmfKN.png" width="600">
 
 ---
 
