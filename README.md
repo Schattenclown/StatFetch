@@ -1,22 +1,15 @@
 # StatFetch
-This is a Discord Bot for Game server Statistics!
+<img src="https://i.imgur.com/2aMBhXp.png" width="600">
 
+This is a Discord Bot for Game server Statistics! [Bot Invite link](https://discord.com/api/oauth2/authorize?client_id=1100507768676425789&permissions=18582176394304&scope=bot%20applications.commands)
+## Features
 
-[Bot Invite link](https://discord.com/api/oauth2/authorize?client_id=1100507768676425789&permissions=18582176394304&scope=bot%20applications.commands)
----
-
-## Current Features
-
-- Allow users to add and remove game servers to monitor on a per-Discord guild basis.
-- Fetch data from a game server (such as Minecraft or Steam servers).
-- Notify users if the game server goes offline, online, or if players start or stop playing.
+- Fetch data from Minecraft and Steam server's.
+- Notify users if the server goes offline, online, players start or stop playing.
 - Keep track of data such as maximum players and Uptime.
-- Edit view to Edit the Instance-Configurations.
-- Join Button on Steam servers Dashboards (Messages) that allows Users to connect.
+- Join Button for Steam server's that allows Users to connect.
 
----
-
-## Setup 
+## Usage/Examples/Setup 
 
 #### 1. Call the add command.
    
@@ -46,19 +39,16 @@ This is a Discord Bot for Game server Statistics!
 
 <img src="https://i.imgur.com/Ul0OHWz.png" width="600">
 
----
 
 ## Manage
 
-1. To manage your Server Configurations, you can either call the command `/configurations manage` or Right-click on a Server Configuration → Apps → Manage.
+#### 1. To manage your Server Configurations, you can either call the command `/configurations manage` or Right-click on a Server Configuration → Apps → Manage.
 
 <img src="https://i.imgur.com/Eb7tT8t.png" width="1000">
 
 #### 2. Here you can click through your Configurations, or select a Configuration from the Dropdown Menu. This is for Deletion and editing.
 
 <img src="https://i.imgur.com/CPanOEI.png" width="600">
-
----
 
 ## Statistics
 
@@ -72,11 +62,9 @@ This is a Discord Bot for Game server Statistics!
 
 <img src="https://i.imgur.com/PBZmfKN.png" width="600">
 
----
-
 ## Notification Options.
 
-## The Bot checks every Server every Second, and sends the Notifications if anything changed.
+### The Bot checks every Server every Second, and sends the Notifications if anything changed.
 
 Option | Function
 --- | ---
@@ -85,7 +73,7 @@ OnFirstPlayer | When one Player starts playing (0/70) Players → (1/70) Players
 OnlineOffline | The Server goes Offline or Online
 FullSpam | everything above plus every joined and leaving Player
 
-## Subscribe to a Server Configurations Notifications.
+### Subscribe to a Server, to get Notifications.
 
 #### 1. Click `Notification` on the Dashboard (Message).
 
@@ -106,11 +94,34 @@ FullSpam | everything above plus every joined and leaving Player
 ## Preview of the Notifications.
 
 <img src="https://i.imgur.com/5hh0jSk.png" width="600">
-<img src="https://i.imgur.com/0fGPlDC.png" width="600">
-<img src="https://i.imgur.com/fpqPDSo.png" width="600">
-<img src="https://i.imgur.com/ORWi2Sw.png" width="600">
 
----
+<img src="https://i.imgur.com/0fGPlDC.png" width="600">
+
+<img src="https://i.imgur.com/fpqPDSo.png" width="600">
+
+<img src="https://i.imgur.com/ORWi2Sw.png" width="600">
 
 ## Limitations
 Due to the Discord-API's Limitations, the Bot can only update a Dashboard (Message) every 5 Seconds if the Message is Older than one hour. Because of this, the Bot will only edit and update one Dashboard (Message) every 5 Seconds, if you set up 5 Servers, it will take 5 x 5 = 25 Seconds until one Rotation is done.
+
+## Authors
+
+- [@Schattenclown](https://github.com/Schattenclown)
+## Feedback
+
+If you have any feedback, please reach out to me at statfetch@icloud.com
+## Support
+
+For support, email statfetch@icloud.com or join the Discord Server [Invite link](https://discord.gg/secretbit)
+## Roadmap
+
+- Uptime Statistics
+## Tech Stack
+
+**Language:** C#, Entity Framework
+
+**Library:** [DisCatSharp](https://github.com/Aiko-IT-Systems/DisCatSharp)
+
+**Database:** MSSQL Server 2022
+
+**Server:** Windows Server Datacenter 2022
