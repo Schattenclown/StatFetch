@@ -48,10 +48,6 @@ This is a Discord Bot for Game server Statistics!
 <img src="https://i.imgur.com/eIag61u.png" width="600">
 <img src="https://i.imgur.com/PUT3axJ.png" width="600">
 
-<img src="https://i.imgur.com/6a2iR1i.png" width="600">
-<img src="https://i.imgur.com/OPKnL4Z.png" width="600">
-<img src="https://i.imgur.com/JS8xSLD.png" width="600">
-
 ---
 
 ## Notification Options.
@@ -69,6 +65,22 @@ FullSpam | everything above plus every joined and leaving Player
 <img src="https://i.imgur.com/0fGPlDC.png" width="600">
 <img src="https://i.imgur.com/e0NRGrP.png" width="600">
 <img src="https://i.imgur.com/V02gB57.png" width="600">
+
+## Abo to an Server Configuration.
+
+#### 1. Click "Edit Notification" on the Dashboard (Message).
+
+#### 2. Click "Edit Notification" in your Private Messages.
+
+<img src="https://i.imgur.com/6a2iR1i.png" width="600">
+
+#### 2. Click on the Stuff you want to get Notified.
+
+<img src="https://i.imgur.com/OPKnL4Z.png" width="600">
+
+#### 3. or deabo from it.
+
+<img src="https://i.imgur.com/JS8xSLD.png" width="600">
 
 ---
 
