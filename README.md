@@ -16,11 +16,11 @@ This is a Discord Bot for Game server Statistics!
 
 ## Setup 
 
-#### 1. Call the add Command.
+#### 1. Call the add command.
    
 <img src="https://i.imgur.com/ktf9gm2.png" width="1000">
 
-#### 2. Select the Servertype.
+#### 2. Select the Server type.
 
 <img src="https://i.imgur.com/4Jd2zGl.png" width="1000">
 
@@ -28,19 +28,19 @@ This is a Discord Bot for Game server Statistics!
 
 <img src="https://i.imgur.com/Lhify0w.png" width="1000">
 
-#### 4. Enter an IP or Domainname.
+#### 4. Enter an IP or Domain name.
 
 <img src="https://i.imgur.com/VpT2aVH.png" width="1000">
 
-#### 5. Enter the Gameport.
+#### 5. Enter the Game port.
 
 <img src="https://i.imgur.com/YR0tuRx.png" width="1000">
 
-#### 5. If you wish you can add an Description.
+#### 5. If you wish, you can add a Description.
 
 <img src="https://i.imgur.com/jb2kxn6.png" width="600">
 
-#### 5. If you Click the "Add a Description" Button, this Edit View will open.
+#### 5. If you click the "Add a Description" Button, this Edit View will open.
 
 <img src="https://i.imgur.com/Ul0OHWz.png" width="600">
 
@@ -54,11 +54,11 @@ This is a Discord Bot for Game server Statistics!
 
 ## Statistics
 
-#### 1. To show the Server Statistics, Rightclick -> Apps -> Statistics.
+#### 1. To show the Server Statistics, Right click → Apps → Statistics.
 
 <img src="https://i.imgur.com/R8OZy4S.png" width="1000">
 
-#### 2. The Player Statistics from the las 30 Days show up.
+#### 2. The Player Statistics from the last 30 Days show up.
 
 <img src="https://i.imgur.com/PUT3axJ.png" width="600">
 
@@ -68,12 +68,12 @@ This is a Discord Bot for Game server Statistics!
 
 Option | Function
 --- | ---
-OnFreeSlot | When Player slots get free (70/70) Players -> (69/70) Players
-OnFirstPlayer | When one Player starts playing (0/70) Players -> (1/70) Players
+OnFreeSlot | When Player slots get free (70/70) Players → (69/70) Players
+OnFirstPlayer | When one Player starts playing (0/70) Players → (1/70) Players
 OnlineOffline | The Server goes Offline or Online
 FullSpam | everything above plus every joined and leaving Player
 
-## Abo to an Server Configuration.
+## Subscribe to a Server Configurations Notifications.
 
 #### 1. Click "Edit Notification" on the Dashboard (Message).
 
@@ -81,11 +81,11 @@ FullSpam | everything above plus every joined and leaving Player
 
 <img src="https://i.imgur.com/6a2iR1i.png" width="600">
 
-#### 2. Click on the Stuff you want to get Notified.
+#### 2. Click on the Stuff you want to get notified.
 
 <img src="https://i.imgur.com/OPKnL4Z.png" width="600">
 
-#### 3. or deabo from it.
+#### 3. Or unsubscribe from it.
 
 <img src="https://i.imgur.com/JS8xSLD.png" width="600">
 
