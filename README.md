@@ -43,9 +43,21 @@ This is a Discord Bot for Game server Statistics!
 #### 5. If you Click the "Add a Description" Button, this Edit View will open.
 
 <img src="https://i.imgur.com/Ul0OHWz.png" width="600">
+
 <img src="https://i.imgur.com/Eb7tT8t.png" width="600">
-<img src="https://i.imgur.com/6S5MwGS.png" width="600">
+
 <img src="https://i.imgur.com/eIag61u.png" width="600">
+
+---
+
+## Manage
+
+<img src="https://i.imgur.com/6S5MwGS.png" width="600">
+
+---
+
+## Statistics
+
 <img src="https://i.imgur.com/PUT3axJ.png" width="600">
 
 ---
