@@ -21,6 +21,7 @@ This is a Discord Bot for Game server Statistics! [Bot Invite link](https://disc
 #### Notifications
 <img src="https://app.0x360x39.de/StatFetch/Images/dings/3.png" width="1000">
 
+
 ## Usage/Examples/Setup
 <details>
 <summary></summary>
@@ -55,8 +56,10 @@ This is a Discord Bot for Game server Statistics! [Bot Invite link](https://disc
 
 </details>
 
-## Manage
 
+## Manage
+<details>
+<summary></summary>
 #### 1. To manage your Server Configurations, you can either call the command `/configurations manage` or Right-click on a Server Configuration → Apps → Manage.
 
 <img src="https://i.imgur.com/Eb7tT8t.png" width="1000">
@@ -76,9 +79,12 @@ This is a Discord Bot for Game server Statistics! [Bot Invite link](https://disc
 <img src="https://i.imgur.com/99iaBXA.png" width="600">
 
 <img src="https://i.imgur.com/PBZmfKN.png" width="600">
+</details>
+
 
 ## Notification Options.
-
+<details>
+<summary></summary>
 ### The Bot checks every Server every Second, and sends the Notifications if anything changed.
 
 Option | Function
@@ -105,6 +111,7 @@ FullSpam | everything above plus every joined and leaving Player
 #### 3. Or unsubscribe from it.
 
 <img src="https://i.imgur.com/JS8xSLD.png" width="600">
+</details>
 
 ## Limitations
 Due to the Discord-API's Limitations, the Bot can only update a Dashboard (Message) every 5 Seconds if the Message is Older than one hour. Because of this, the Bot will only edit and update one Dashboard (Message) every 5 Seconds, if you set up 5 Servers, it will take 5 x 5 = 25 Seconds until one Rotation is done.
