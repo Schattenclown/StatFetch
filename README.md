@@ -24,7 +24,7 @@ This is a Discord Bot for Game server Statistics! [Bot Invite link](https://disc
 
 ## Usage/Examples/Setup
 <details>
-<summary></summary>
+<summary>details</summary>
 
 #### 1. Call the add command.
    
@@ -59,7 +59,7 @@ This is a Discord Bot for Game server Statistics! [Bot Invite link](https://disc
 
 ## Manage
 <details>
-<summary></summary>
+<summary>show</summary>
 #### 1. To manage your Server Configurations, you can either call the command `/configurations manage` or Right-click on a Server Configuration → Apps → Manage.
 
 <img src="https://i.imgur.com/Eb7tT8t.png" width="1000">
@@ -84,7 +84,7 @@ This is a Discord Bot for Game server Statistics! [Bot Invite link](https://disc
 
 ## Notification Options.
 <details>
-<summary></summary>
+<summary>show</summary>
 ### The Bot checks every Server every Second, and sends the Notifications if anything changed.
 
 Option | Function
