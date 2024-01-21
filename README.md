@@ -21,8 +21,9 @@ This is a Discord Bot for Game server Statistics! [Bot Invite link](https://disc
 #### Notifications
 <img src="https://app.0x360x39.de/StatFetch/Images/dings/3.png" width="1000">
 
+## Usage/Examples/Setup
 <details>
-<summary>## Usage/Examples/Setup</summary>
+<summary></summary>
 
 #### 1. Call the add command.
    
