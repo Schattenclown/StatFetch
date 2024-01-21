@@ -119,19 +119,45 @@ FullSpam | everything above plus every joined and leaving Player
 </details>
 
 ## Limitations
+
+<details>
+<summary>Click here to show the details!</summary>
+
 Due to the Discord-API's Limitations, the Bot can only update a Dashboard (Message) every 5 Seconds if the Message is Older than one hour. Because of this, the Bot will only edit and update one Dashboard (Message) every 5 Seconds, if you set up 5 Servers, it will take 5 x 5 = 25 Seconds until one Rotation is done.
+
+</details>
 
 ## Authors
 
+<details>
+<summary>Click here to show the details!</summary>
+
 - [@Schattenclown](https://github.com/Schattenclown)
+
+</details>
+
 ## Feedback/Support
+
+<details>
+<summary>Click here to show the details!</summary>
 
 If you have any feedback, please reach out to me on Discord [@schattenclown](https://discordlookup.com/user/444152594898878474) or join the Discord Server [Invite link](https://discord.gg/secretbit)
 
+</details>
+
 ## Roadmap
 
+<details>
+<summary>Click here to show the details!</summary>
+
 - Uptime Statistics
+
+</details>
+
 ## Tech Stack
+
+<details>
+<summary>Click here to show the details!</summary>
 
 **Language:** C#, Entity Framework
 
@@ -140,3 +166,4 @@ If you have any feedback, please reach out to me on Discord [@schattenclown](htt
 **Database:** MSSQL Server 2022
 
 **Server:** Windows Server Datacenter 2022
+</details>
