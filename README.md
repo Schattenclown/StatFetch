@@ -10,6 +10,14 @@ This is a Discord Bot for Game server Statistics! [Bot Invite link](https://disc
 - Keep track of data such as maximum players and Uptime.
 - Join Button for Steam server's that allows Users to connect.
 
+## Showcase
+
+<img src="https://app.0x360x39.de/StatFetch/Images/dings/exampleserver.png" width="1000">
+
+<img src="https://app.0x360x39.de/StatFetch/Images/dings/playerstatistics.png" width="1000">
+
+<img src="https://app.0x360x39.de/StatFetch/Images/dings/uptimestatistics.png" width="1000">
+
 ## Usage/Examples/Setup 
 
 #### 1. Call the add command.
