@@ -12,11 +12,9 @@ This is a Discord Bot for Game server Statistics! [Bot Invite link](https://disc
 
 ## Showcase
 
-<img src="https://app.0x360x39.de/StatFetch/Images/dings/exampleserver.png" width="1000">
+<img src="https://app.0x360x39.de/StatFetch/Images/dings/1.png" width="1000">
 
-<img src="https://app.0x360x39.de/StatFetch/Images/dings/playerstatistics.png" width="1000">
-
-<img src="https://app.0x360x39.de/StatFetch/Images/dings/uptimestatistics.png" width="1000">
+<img src="https://app.0x360x39.de/StatFetch/Images/dings/2.png" width="1000">
 
 ## Usage/Examples/Setup 
 
